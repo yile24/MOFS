@@ -3,11 +3,15 @@ This repository contains the official implementation codes of **Multi-Operator F
 
 
 ## Datasets
-The data can be found in
+The dataset can be downloaded from [Google Drive](https://drive.google.com/drive/u/2/folders/1DsCBr2EDT1fgPjZYfiRuG-K-mpE-aqwm).
 
 
 ## Run Experiments
-Download the data in the sample folder with codes. Each script file can be run by "python 'file_name'".
+Each script file can be run by "python 'file_name'".
+
+```bash
+python darcy_128_fno_reformat_co.py
+```
 
 ## Citation
 If you find this repository useful, please cite our paper:
