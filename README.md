@@ -10,7 +10,7 @@ The dataset can be downloaded from [Google Drive](https://drive.google.com/drive
 Each script file can be run by "python 'file_name'".
 
 ```bash
-python darcy_128_fno_reformat_co.py
+python train_2D_DarcyFlow_beta10.0.py
 ```
 
 ## Citation
